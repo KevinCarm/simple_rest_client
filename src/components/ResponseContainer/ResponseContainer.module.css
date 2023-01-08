@@ -1,0 +1,17 @@
+.response_container {
+   width: 100%;
+   margin-top: 30px;
+   padding: 30px;
+}
+
+.scroll {
+   max-height: 400px;
+   width: 100%;
+   background: #f1f1f1;
+   border-radius: 10px;
+   overflow-y: scroll;
+}
+
+.scroll_content {
+   height: auto;
+}
